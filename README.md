@@ -1,4 +1,4 @@
-**High Energy Physics PhD Student:**
+**PhD Researcher in High Energy Physics:**
 - Currently working on experimental Higgs Physics and Calorimetry
 - Experience with Linux, C/C++, Python, Deep Learning (CNNs, GANs), GPU Computing, Workflow management and Data Science
 - Teacher assistant @ École polytechnique
