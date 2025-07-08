@@ -1,4 +1,4 @@
-Hello 👋! I'm a tech-oriented Physics Engineer working in Paris and at CERN. I would be happy to [connect](https://www.linkedin.com/in/bruno-alves-/)!
+Hello 👋! I'm a tech-oriented Computational Physics Engineer working at CERN. I would be happy to [connect](https://www.linkedin.com/in/bruno-alves-/)!
 
 [![ ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bfonta&layout=compact&hide_title=true&exclude_repo=LEAPS,dot-emacs&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
